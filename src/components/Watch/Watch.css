@@ -1,0 +1,13 @@
+.btn{
+  background-color: pink;
+  padding: 7px 15px;
+  color: black;
+  border-radius: 5px;
+}
+.btn:hover{
+  background-color: orange;
+}
+.header{
+  border: 2px solid rgb(29, 201, 29);
+  padding: 12px
+}
